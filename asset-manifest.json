@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/toast-lib-test-project/static/js/main.d77a7559.js",
+    "index.html": "/toast-lib-test-project/index.html",
+    "main.d77a7559.js.map": "/toast-lib-test-project/static/js/main.d77a7559.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.d77a7559.js"
+  ]
+}
