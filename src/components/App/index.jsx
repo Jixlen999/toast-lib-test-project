@@ -2,7 +2,7 @@ import { useState } from 'react';
 import { Toasts } from 'jix-toast-library';
 import DefaultToasts from '../DefaultToasts';
 import Details from '../Details';
-import { Wrapper } from './styled';
+import Wrapper from './styled';
 
 function App() {
   const [toasts, setToasts] = useState([]);

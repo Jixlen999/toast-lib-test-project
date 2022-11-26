@@ -1,6 +1,6 @@
 import styled from 'styled-components';
 
-export const Wrapper = styled.div`
+const Wrapper = styled.div`
   width: ${({ theme }) => theme.width[0]}%;
   height: ${({ theme }) => theme.height[0]}%;
   display: flex;
@@ -14,3 +14,5 @@ export const Wrapper = styled.div`
     cursor: pointer;
   }
 `;
+
+export default Wrapper;
