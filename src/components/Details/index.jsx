@@ -1,6 +1,6 @@
 import React from 'react';
 import PropTypes from 'prop-types';
-import ToastConfig from '../ToastConfig';
+import ToastConfig from '@components/ToastConfig';
 
 function Details({ setToasts }) {
   return (
